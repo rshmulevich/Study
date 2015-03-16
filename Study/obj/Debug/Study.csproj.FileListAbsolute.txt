@@ -22,3 +22,6 @@ C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\log4net.dll
 C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.dll
 C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.pdb
 C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\log4net.xml
+C:\Users\rshmulevich\Documents\Visual Studio 2012\Projects\Study\Study\bin\Debug\Study.exe.config
+C:\Users\rshmulevich\Documents\Visual Studio 2012\Projects\Study\Study\obj\Debug\Study.exe
+C:\Users\rshmulevich\Documents\Visual Studio 2012\Projects\Study\Study\obj\Debug\Study.pdb
