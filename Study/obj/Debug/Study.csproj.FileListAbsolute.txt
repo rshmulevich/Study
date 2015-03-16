@@ -1,0 +1,24 @@
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\bin\Debug\Study.exe.config
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\bin\Debug\Study.exe
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\bin\Debug\Study.pdb
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\obj\Debug\Study.exe
+c:\users\roman\documents\visual studio 2012\Projects\Study\Study\obj\Debug\Study.pdb
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Study.exe.config
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\obj\Debug\Study.exe
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\obj\Debug\Study.pdb
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Study.exe
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Study.pdb
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\bin\Debug\Study.exe.config
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\obj\Debug\Study.exe
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\obj\Debug\Study.pdb
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\bin\Debug\Study.exe
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\bin\Debug\Study.pdb
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.dll
+C:\Users\Roman\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.pdb
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\log4net.dll
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.dll
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\Vechicles.pdb
+C:\Users\rshmulevich\Google Drive\SharedNW\Study\Study\bin\Debug\log4net.xml
