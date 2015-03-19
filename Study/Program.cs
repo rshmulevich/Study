@@ -73,10 +73,11 @@ namespace Study
         private static void FillFuel(ICar car, string fuelType, int liters)
         {
 
-            //I'm proude of myself
-
-            string strVehicleType = car.GetType().ToString();
-            strVehicleType = strVehicleType.Split('.')[1];
+            // I'm proude of myself
+            // Yep! Just to simplify a bit...
+            //string strVehicleType = car.GetType().ToString();
+            //strVehicleType = strVehicleType.Split('.')[1];
+            string strVehicleType = car.GetType().Name;
 
             // make sure method below checks for tank capacity and fuel type
             // if something is wrong, throw informative exception
